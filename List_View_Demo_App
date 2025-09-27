@@ -49,6 +49,7 @@ XML:
 </androidx.constraintlayout.widget.ConstraintLayout>
 
 JAVA:
+
 package com.example.list_view_demo_app;
 
 import android.os.Bundle;
